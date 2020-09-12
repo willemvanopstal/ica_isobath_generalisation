@@ -49,13 +49,13 @@ The overall framework of using the triangle region graph as a linking mechanism 
 
 ### Further reading
 
-Guilbert, E. (2016), Feature‐Driven Generalization of Isobaths on Nautical Charts: A Multi‐Agent System Approach. Trans. in GIS, 20: 126-143. doi:10.1111/tgis.12147
+Guilbert, E. (2016). Feature‐Driven Generalization of Isobaths on Nautical Charts: A Multi‐Agent System Approach. Trans. in GIS, 20:126-143. doi:[10.1111/tgis.12147](https://doi.org/10.1111/tgis.12147)
 
-A Voronoi-based approach to generating depth-contours for hydrographic charts. Ravi Peters, Hugo Ledoux and Martijn Meijers. Marine Geodesy 37 (2), 2014, pp. 145–166. doi:10.1080/01490419.2014.902882
+Peters, R., Ledoux, H., Meijers, M. (2014). A Voronoi-based approach to generating depth-contours for hydrographic charts. Marine Geodesy, 37(2):145–166. doi:[10.1080/01490419.2014.902882](https://doi.org/10.1080/01490419.2014.902882)
 
-van Kreveld, M. (1996). Efficient methods for isoline extraction from a TIN. International journal of geographical information systems, 10(5):523–540. doi:/10.1080/02693799608902095
+van Kreveld, M. (1996). Efficient methods for isoline extraction from a TIN. International journal of geographical information systems, 10(5):523–540. doi:[10.1080/02693799608902095](https://doi.org/10.1080/02693799608902095)
 
-Guilbert, E. (2012). Multi-level representation of terrain features on a contour map. GeoInformatica, 17(2):301–324. doi:/10.1007/s10707-012-0153-z
+Guilbert, E. (2012). Multi-level representation of terrain features on a contour map. GeoInformatica, 17(2):301–324. doi:[10.1007/s10707-012-0153-z](https://doi.org/10.1007/s10707-012-0153-z)
 
 Van Opstal, W. (2020), Automatic isobath generalisation for navigational charts. Master's thesis, Geomatics. Delft University of Technology, pp. 145.
 
