@@ -53,7 +53,7 @@ Guilbert, E. (2016), Feature‐Driven Generalization of Isobaths on Nautical Cha
 
 A Voronoi-based approach to generating depth-contours for hydrographic charts. Ravi Peters, Hugo Ledoux and Martijn Meijers. Marine Geodesy 37 (2), 2014, pp. 145–166. doi:10.1080/01490419.2014.902882
 
-Kreveld on interval trees
+van Kreveld, M. (1996). Efficient methods for isoline extraction from a TIN. International journal of geographical information systems, 10(5):523–540. doi:/10.1080/02693799608902095
 
 Guilbert, E. (2012). Multi-level representation of terrain features on a contour map. GeoInformatica, 17(2):301–324. doi:/10.1007/s10707-012-0153-z
 
@@ -142,7 +142,7 @@ Guilbert, E. (2016), Feature‐Driven Generalization of Isobaths on Nautical Cha
 
 A Voronoi-based approach to generating depth-contours for hydrographic charts. Ravi Peters, Hugo Ledoux and Martijn Meijers. Marine Geodesy 37 (2), 2014, pp. 145–166. doi:10.1080/01490419.2014.902882
 
-Kreveld on interval trees
+van Kreveld, M. (1996). Efficient methods for isoline extraction from a TIN. International journal of geographical information systems, 10(5):523–540. doi:/10.1080/02693799608902095
 
 Guilbert, E. (2012). Multi-level representation of terrain features on a contour map. GeoInformatica, 17(2):301–324. doi:/10.1007/s10707-012-0153-z
 
