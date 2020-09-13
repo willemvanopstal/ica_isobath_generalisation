@@ -28,22 +28,22 @@ With our new targeted approach and local smoothing operators more of the morphol
 The overall framework of using the triangle region graph as a linking mechanism between soundings, triangulation and isobaths has potential for a truly automated generalisation approach. It is able to account for information throughout the generalisation pipeline: from survey data to cartographic constraints and makes use of the advantages of both existing approaches. In the future it can benefit from incorporating more intelligence: more complex metrics and operators, better use of the available information in the region graph, other evaluation models like optimisation and possibly a connection to line-based generalisation/simplification afterwards.
 
 ![](img/trg_generation.png)  
-**Figure 1** Geometry of the TRG. Regions are resembled as nodes, overlapping regions form edges. An isobath always follows such a set of *edge triangles*.
+Figure 1. Geometry and generation of the TRG. (Inter-contour) regions are resembled as nodes, overlapping regions form edges. An isobath always follows such a set of edge triangles.  First, triangle regions in between two isobath values are formed (b, c). If regions intersect (d), they are adjacent with each other through an edge (f).  Isobaths  only exist on edges, which point to the edge triangles (e).
 
 ![](img/trg_example.png)  
 **Figure 2** TRG example, visualising overlapping triangle regions (a), edge triangles with their isobaths (b), inter-contour graph based on adjacency (c) and IHO depth information in the form of both isobaths and depth areas (d).
 
 ![](img/generalisation_process.png)  
-**Figure 3** Generalisation process.
+**Figure 3** Overview of the integrated surface-based approach with a simple proposal for an evaluation and generalisation process. The grey outline is our conceptual surface, which is maintained at all times.
 
 ![](img/vertical_differences.png)  
 **Figure 4** The vertical shift in each vertex after generalisation. Note that generalisation is only applied around isobaths (only there conflicts are possible), and more extreme generalisation took place where conflicts were significant (steep, narrow or erratic).
 
 ![](img/margate_tin_trg.png)  
-**Figure 5** Originally extracted isobaths from TIN (grey) and the generalised isobaths for a scale of 1:100k (black).
+**Figure 5** Originally extracted isobaths from TIN (grey) and the generalised isobaths for a scale of 1:100k (black). Notice how lines are smoothened, peaks are aggregated, irrelevant details omitted.
 
 ![](img/margate_comparison.png)  
-**Figure 6** Comparison between non-local and local (targeted) generalisation. In our new approach with conflict isolation and local operators we maintain more of the actual morphology (increased navigable areas), while still yielding a finely legible chart.
+**Figure 6** Comparison between non-local (red) and locally targeted (black) generalisation. In our new approach with conflict isolation and local operators we maintain more of the actual morphology (increased navigable areas), while still yielding a finely legible chart. Green pointers show for example where a fairway is maintained, or anchorages still visible.
 
 ### References
 
