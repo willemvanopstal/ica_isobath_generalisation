@@ -1,6 +1,4 @@
-## Automatic isobath generalisation using the *Triangle Region Graph*: uniting soundings, isobath and constraints through a navigational surface
-
-## Rule-based isobath generalisation using th
+## Rule-based isobath generalisation using the *Triangle Region Graph*: uniting soundings, isobath and constraints through a navigational surface
 
 ### Authors
 
